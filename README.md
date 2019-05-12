@@ -1,10 +1,12 @@
 # mock-sever-demo
 
+变更 vue-cli,用 mockjs 搭建 mock server
+
 > A Vue.js project
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
